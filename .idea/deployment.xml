@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yuan@128.97.89.85:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="yuan@128.97.89.85:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/DLCariesScreen" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
