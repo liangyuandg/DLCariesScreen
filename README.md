@@ -1,5 +1,5 @@
 # Development and Evaluation of Deep Learning for Screening Dental Caries from Oral Photos
-![Ovreall Arthetecture](figure1.tif)
+![Ovreall Arthetecture](figure1.jp2)
 
 This repository contains Pytorch implementation of a deep-learning-based detection model for localizing dental caries from oral photos. 
 The multiple-GPU-based training/testing and CPU/single-GPU-based deployment are supported by this implementation. 
