@@ -18,7 +18,7 @@ $ git clone https://github.com/liangyuandg/DLCariesScreen.git
 
 **Note**: If you are using a Python virtualenv, make sure it is activated before running each command in this guide.
 
-Install Pytorch by following the [official guidance](https://pytorch.org/). 
+Install PyTorch by following the [official guidance](https://pytorch.org/). 
 
 Install mmcv, which is a versatile image processing library designed for computer vision research, by following the [official guidance](https://github.com/open-mmlab/mmcv).
 
