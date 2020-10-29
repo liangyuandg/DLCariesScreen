@@ -58,5 +58,5 @@ We give an example input image and its inference result in the `deployment` fold
 
 
 ## Notes
-1. Since the privacy issue and commercial interest, the trained models and training images are not released. However, by following the instructions above, new models can be trained with each individual's repository of data. 
+1. Since the privacy issue and commercial interest, the trained models and training images are not released at the moment. Request for the data can be made to liangyuandg@ucla.edu. However, by following the instructions above, new models can be trained with each individual's repository of data. 
 2. More details about training strategy, model architecture descriptions, and result discussion will be released in a future publication. 
