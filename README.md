@@ -10,7 +10,7 @@ Our implementation only depends on `Pytorch` and `mmcv`.
 
 ### Step 1: Clone the repository
 ```
-$ git clone https://github.com/sadeepj/crfasrnn_keras.git
+$ git clone https://github.com/liangyuandg/DLCariesScreen.git
 ```
 
 ### Step 2: Install dependencies
