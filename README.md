@@ -74,6 +74,8 @@ We give an example input image and its inference result in the `deployment` fold
 **[Update]** As of Dec. 28th, 2020, the dataset has not yet been public for de-identification and privacy need. Please contact with Prof. Leiying Miao for the latest status of the dataset. 
 
 Miao, Leiying\
+Associate Professor
+Nanjing Stomatology Hospital
 Medical School of Nanjing University\
 [https://med.nju.edu.cn/84/4a/c10886a230474/pagem.htm](https://med.nju.edu.cn/84/4a/c10886a230474/pagem.htm)\
 Email: [miaoleiying80@163.com](mailto:miaoleiying80@163.com)
