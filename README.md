@@ -23,7 +23,7 @@ Install PyTorch by following the [official guidance](https://pytorch.org/).
 Install mmcv, which is a versatile image processing library designed for computer vision research, by following the [official guidance](https://github.com/open-mmlab/mmcv).
 
 ### Step 3: Download the pre-trained model weights
-Download the model weights from [here](https://drive.google.com/file/d/1cuY783RCYNS0LwCTTGUlvMX7Z-XfKPNW/view?usp=sharing) and place it in the `checkpoints` directory.
+Download the model weights from [here](https://drive.google.com/file/d/1CzEkQ7mR63GsCDfRRBViYhGEZIS1aOCF/view?usp=sharing) and place it in the `checkpoints` directory.
 
 
 ## Instructions
