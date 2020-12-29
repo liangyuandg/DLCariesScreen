@@ -58,5 +58,26 @@ We give an example input image and its inference result in the `deployment` fold
 
 
 ## Notes
-1. Since the privacy issue and commercial interest, the trained models and training images are not released at the moment. Request for the data should be made to liangyuandg@ucla.edu and will be considered according to the purpose of usage. By following the instructions above, new models can be trained on any individual's repository of data. 
-2. More details about training strategy, model architecture descriptions, and result discussion will be released in a future publication. 
+1. More details about training strategy, model architecture descriptions, and result discussion should refer to the following [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/odi.13735). If you find the work has helped you for your research, please consider citing : 
+```
+@article{zhang2020development,
+  title={Development and evaluation of deep learning for screening dental caries from oral photos},
+  author={Zhang, Xuan and Liang, Yuan and Li, Wen and Liu, Chao and Gu, Deao and Sun, Weibin and Miao, Leiying},
+  journal={Oral diseases},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+```
+
+2. Since the privacy issue and commercial interest, the dataset is not released at the moment. ~~Request for the data should be made to liangyuandg@ucla.edu and will be considered according to the purpose of usage.~~ By following the instructions above, new models can be trained on any individual's repository of data.
+
+**[Update]** As of Dec. 28th, 2020, the dataset has not yet been public for de-identification and privacy need. Please contact with Prof. Leiying Miao for the latest status of the dataset. 
+
+Miao, Leiying\
+Medical School of Nanjing University\
+[https://med.nju.edu.cn/84/4a/c10886a230474/pagem.htm](https://med.nju.edu.cn/84/4a/c10886a230474/pagem.htm)\
+Email: [miaoleiying80@163.com](mailto:miaoleiying80@163.com)
+
+
+
+
